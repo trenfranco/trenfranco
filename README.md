@@ -2,7 +2,7 @@
 <h3 align="center">I am studying software development at Holberton School. Here you can find some of my projects.</h3>
 
 
-- <p align="center"> 🌱 I’m currently learning <strong>C, Python </strong></p>
+<p align="center"> 🌱 I’m currently learning <strong>C, Python </strong></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trenfranco&show_icons=true&locale=en&layout=compact" alt="trenfranco" /></p>
 
