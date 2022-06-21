@@ -4,6 +4,8 @@
 
 <p align="center"> 🌱 I’m currently learning <strong>C, Python </strong></p>
 
+<hr>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trenfranco&show_icons=true&locale=en&layout=compact" alt="trenfranco" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trenfranco&show_icons=true&locale=en" alt="trenfranco" /></p>
