@@ -2,13 +2,13 @@
 <h3 align="center">I am studying software development at Holberton School. Here you can find some of my projects.</h3>
 
 
-- 🌱 I’m currently learning **C, Python**
+- <p align="center"> 🌱 I’m currently learning **C, Python**</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trenfranco&show_icons=true&locale=en&layout=compact" alt="trenfranco" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trenfranco&show_icons=true&locale=en&layout=compact" alt="trenfranco" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trenfranco&show_icons=true&locale=en" alt="trenfranco" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trenfranco&show_icons=true&locale=en" alt="trenfranco" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trenfranco&" alt="trenfranco" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trenfranco&" alt="trenfranco" /></p>
 
 
 <h3 align="center">Languages and Tools:</h3>
