@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C, Python**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trenfranco&show_icons=true&locale=en&layout=compact" alt="trenfranco" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trenfranco&show_icons=true&locale=en&layout=compact" alt="trenfranco" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trenfranco&show_icons=true&locale=en" alt="trenfranco" /></p>
 
