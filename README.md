@@ -2,7 +2,7 @@
 <h3 align="center">I am studying software development at Holberton School. Here you can find some of my projects.</h3>
 
 
-<p align="center"> 🌱 I’m currently learning <strong>C, Python, Javascript, NodeJs, Flask</strong></p>
+<p align="center"> 🌱 I’m currently learning <strong>C, Python, Javascript, NodeJs, Flask, AWS, GCP, Puppet</strong></p>
 
 <hr>
 
