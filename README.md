@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Franco Trenche</h1>
-<h3 align="center">I am studying software development at Holberton School. Here you can find some of my projects.</h3>
+<h3 align="center">Experienced web scraper and student.</h3>
 
 
-<p align="center"> 🌱 I’m currently learning <strong>C, Python, Javascript, NodeJs, Flask, AWS, GCP, Puppet</strong></p>
+<p align="center"> 🌱 Python, C#, RegEx, SQL, Xpath, HTML</strong></p>
 
 <hr>
 
