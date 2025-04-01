@@ -2,7 +2,7 @@
 <h3 align="center">Experienced web scraper and student.</h3>
 
 
-<p align="center"> 🌱 Python, C#, RegEx, SQL, Xpath, HTML</strong></p>
+<p align="center"> 🌱 Python, C#, RegEx, SQL, Xpath, Selenium, Scrapy, bf4</strong></p>
 
 <hr>
 
