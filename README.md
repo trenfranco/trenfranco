@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Franco Trenche</h1>
-<h3 align="center">Experienced web scraper and student.</h3>
+<h1 align="center">Hi 👋, I'm Franco</h1>
+<h3 align="center">Experienced web scraper/developer and student.</h3>
 
 
-<p align="center"> 🌱 Python, C#, RegEx, SQL, Xpath, Selenium, Scrapy, bf4</strong></p>
+<p align="center"> 🌱 Python, C#, RegEx, SQL, Xpath, Selenium, Scrapy, bf4, etc.</strong></p>
 
 <hr>
 
